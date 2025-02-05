@@ -1,6 +1,6 @@
 # U1: ISPO
 ## U1 CW2: Knock Knock Variations
-###Exploration Questions
+### Exploration Questions
 
 1. How does "Simple" work?
 2. How does "Better" improve it?
