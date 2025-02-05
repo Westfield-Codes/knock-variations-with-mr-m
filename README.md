@@ -1,16 +1,14 @@
-# U1: ISPO#
-## U1 CW1: Knock Knowk ##
-The knock-knock game has much hidden knowledge in it!  What can you learn from the patterns in script.js?
-### 10 Scavenger Hunt Questions:###
-These get harder as you go.  
-1. What are the blue parts (light) | yellow parts (dark) called?
-2. What is true about ALMOST ALL of these (ends)?
-3. What are the black parts (light) | blue-gray parts (dark) called?
-4. what is true of all of these the first time you see them? 
-5. What do you call a complete line of code in Javascript? 
-6. What is true about SOME of these: brown parts (light) | salmon parts (dark)?
-7. What do the parentheses "mean"?  What do they "do"?
-8. What do the green parts "mean"?  What do they "do"?
-9. What is the difference between = and == ?
-10. What happens if you click the minus sign (or down arrows) by "function"?
-11. What other patterns do you see? 
+# U1: ISPO
+## U1 CW2: Knock Knock Variations
+###Exploration Questions
+
+1. How does "Simple" work?
+2. How does "Better" improve it?
+3. What do the "Global Variables" have to do with this?
+4. How does "Best" improve it more?
+5. What parts (line numbers) are "Output" (the computer writes something on the screen)?
+6. What parts (line numbers) are "Input" (you have to type something?)
+7. What parts (line numbers) are "Storage" (the computer holds on to what you write - look at "Better"
+8. What parts (line numbers) are "Processing" (the computer makes a decision to affect what it does)?
+9. How does "Best" handle repeat guessing? What's the "word" that refers to a function calling itself?
+10. Fist to Five:  How well did you understand what we talked about today?
