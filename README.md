@@ -6,6 +6,8 @@
 2. How does "Better" improve it?
 3. What do the "Global Variables" have to do with this?
 4. How does "Best" improve it more?
+   
+### Code Questions
 5. What parts (line numbers) are "Output" (the computer writes something on the screen)?
 6. What parts (line numbers) are "Input" (you have to type something?)
 7. What parts (line numbers) are "Storage" (the computer holds on to what you write - look at "Better"
