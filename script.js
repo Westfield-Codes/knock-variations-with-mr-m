@@ -1,4 +1,8 @@
-
+/* store jokes
+* "wooden shoe", "wooden shoe like to know"!
+* lettuce, lettuce in its cold outside
+* "hatch", "bless you"!
+/*
 /* Global variables */
 var who = "lettuce";
 var joke = "lettuce in,its cold outside!";
