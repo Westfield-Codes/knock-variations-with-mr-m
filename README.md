@@ -11,9 +11,10 @@ hh
 ### Code Questions
 5. What parts (line numbers) are "Output" (the computer writes something on the screen)? **9,10,11**
 6. What parts (line numbers) are "Input" (you have to type something?) **17**
-7. What parts (line numbers) are "Storage" (the computer holds on to what you write - look at "Better"
+7. What parts (line numbers) are "Storage" (the computer holds on to what you write - look at "Better" **17**
 8. What parts (line numbers) are "Processing" (the computer makes a decision to affect what it does)?
 9. How does "Best" handle repeat guessing? What's the "word" that refers to a function calling itself?
 10. Fist to Five:  How well did you understand what we talked about today?
+
 
 
